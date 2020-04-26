@@ -1,6 +1,6 @@
 {
   "name": "cra-template-redux-bundler",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "CRA template using redux bundler",
   "main": "template.json",
   "repository": {
