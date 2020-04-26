@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "CRA template using redux bundler",
   "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/umkatakam/cra-template-redux-bundler"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
