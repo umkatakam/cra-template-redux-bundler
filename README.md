@@ -7,5 +7,5 @@ This is the template for creating a react app that uses [redux-bundler](https://
 ## Usage
 
 ```
-npx create-react-app my-app --template redux
+npx create-react-app my-app --template redux-bundler
 ```
